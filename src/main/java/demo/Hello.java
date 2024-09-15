@@ -5,6 +5,7 @@ public class Hello {
 		System.out.println("Hello World");
 		System.out.println("update");
 		System.out.println("create branch");
+		System.out.println("·ÖÖ§Ìí¼Ó");
 	}
 
 }
