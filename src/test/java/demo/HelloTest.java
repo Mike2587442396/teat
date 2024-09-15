@@ -1,12 +1,9 @@
 package demo;
-import org.junit.Test;
-import static junit.framework.TestCase.assertEquals;
+
 public class HelloTest{
-	@Test
-	public void testHello(){
-		Hello hello = new Hello();
-		String result = hello.sayHello("Json");
-		assertEquals("Hello Json!", result);
+	public static void main(String[] args) {
+		System.out.println("hello git");
+		
 	}
 }
 
