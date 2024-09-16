@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("create branch");
 		System.out.println("主干添加");
 		System.out.println("分支添加");
+		System.out.println("解决冲突");
 	}
 
 }
